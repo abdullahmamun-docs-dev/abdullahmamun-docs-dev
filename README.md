@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="./a.png" alt="Abdullah Al Mamun - Frontend Developer" width="100%" />
+  <img src="./Image.png" alt="Abdullah Al Mamun - Frontend Developer" width="100%" />
 </p>
 
 <!-- ========================= -->
