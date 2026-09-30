@@ -132,7 +132,7 @@ https://github.com/abdullahmamun-docs-dev/movie-explorer
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=abdullahmamun-docs-dev&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Abdullah Al Mamun GitHub Stats"
+    alt="Abdullah Al Mamun GitHub Statistics"
   />
 </p>
 
