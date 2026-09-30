@@ -142,10 +142,7 @@ https://github.com/abdullahmamun-docs-dev/movie-explorer
     alt="Most Used Languages"
   />
 </p>
-# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahmamun-docs-dev&show_icons=true)
----
 
 # 🔥 Contribution Streak
 
